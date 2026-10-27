@@ -1,0 +1,10 @@
+{
+  "name": "Palancia Estudio & Glam — CEIP Palancia",
+  "description": "Plataforma interactiva de estudio (4º a 6º de Primaria - CEIP Palancia, Algimia de Alfara), agenda de exámenes con exportación a Google Calendar, control parental con recompensas de tiempo y estudio de maquillaje AR.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
